@@ -1,7 +1,6 @@
 {
   "dependencies": [
     "drogon",
-    "intel-mkl",
     "tbb",
     "libuuid",
     "jsoncpp",
@@ -9,6 +8,8 @@
     "openssl",
     "c-ares",
     "brotli",
-    "hiredis"
+    "hiredis",
+    "unordered-dense",
+    "intel-mkl"
   ]
 }
