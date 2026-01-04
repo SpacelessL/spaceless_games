@@ -1,0 +1,14 @@
+{
+  "dependencies": [
+    "drogon",
+    "intel-mkl",
+    "tbb",
+    "libuuid",
+    "jsoncpp",
+    "zlib",
+    "openssl",
+    "c-ares",
+    "brotli",
+    "hiredis"
+  ]
+}
